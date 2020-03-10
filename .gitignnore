@@ -1,0 +1,6 @@
+../vs
+./vs
+vs
+*.exe
+*.dll
+*.bin
